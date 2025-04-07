@@ -1,5 +1,31 @@
+body{
+    background-color: antiquewhite;
+    
+}
+
 header{
     font-size: 10em;
     color: chartreuse;
 
+}
+
+footer{
+
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: auto;
+
+}
+
+.contaner{
+
+}
+
+.nav{
+    
 }
