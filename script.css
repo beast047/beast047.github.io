@@ -16,11 +16,13 @@ padding: 30px ;
 .left{
     float: left;
     padding: 10px;
+    border-right: solid;
 }
 
 .right{
     float: right;
     padding: 10px;
+    border-left: solid;
 }
 
 .contaner{
