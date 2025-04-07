@@ -16,14 +16,14 @@ padding: 30px ;
 
 .left{
     float: left;
-    padding: 10px;
+    padding: 2em;
     border-right: solid;
     width: 20%;
 }
 
 .right{
     float: left;
-    padding: 10px;
+    padding: 2px;
     border-left: solid;
     width: 20%;
 }
@@ -35,8 +35,8 @@ padding: 30px ;
 }
 
 main{
-padding: 10em;
-margin: 10em;
+padding: 2em;
+margin: 2em;
 float: left;
 width:60%;
 }
