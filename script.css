@@ -1,6 +1,6 @@
 body{
     background-color: antiquewhite;
-    
+    margin: 10em;
 }
 
 header{
@@ -29,6 +29,9 @@ padding: 30px ;
     padding: 20px;
 }
 
+main{
+
+}
 .nav{
 
 }
