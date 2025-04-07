@@ -22,7 +22,7 @@ padding: 30px ;
 }
 
 .right{
-    float: right;
+    float: left;
     padding: 10px;
     border-left: solid;
     width: 20%;
