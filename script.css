@@ -6,26 +6,27 @@ body{
 header{
     font-size: 10em;
     color: chartreuse;
-
+    border-bottom: ;
 }
 
 footer{
-
+padding: 30px ;
 }
 
 .left{
     float: left;
+    padding: 10px;
 }
 
 .right{
-    float: auto;
-
+    float: right;
+    padding: 10px;
 }
 
 .contaner{
-
+    padding: 20px;
 }
 
 .nav{
-    
+
 }
