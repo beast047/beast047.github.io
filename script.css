@@ -18,11 +18,13 @@ padding: 10px ;
 .left{
     float: left;
     width: 25%;
+    margin: 10px;
 }
 
 .right{
     float: right;
     width: 25%;
+    margin: 10px;
 }
 
 .contaner{
