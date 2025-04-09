@@ -24,6 +24,7 @@ border-top: solid;
 }
 
 .right{
+    padding-left: 10px;
     float: right;
     width: 25%;
     margin: 10px;
