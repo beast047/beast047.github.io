@@ -13,18 +13,21 @@ header{
 
 footer{
 padding: 10px ;
+border-top: solid;
 }
 
 .left{
     float: left;
     width: 25%;
     margin: 10px;
+    border-right: solid;
 }
 
 .right{
     float: right;
     width: 25%;
     margin: 10px;
+    border-left: solid;
 }
 
 .contaner{
